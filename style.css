@@ -1,0 +1,25 @@
+body {
+    padding-top: 70px;
+}
+
+.hero {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    background: #f8f9fa;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.card {
+    margin-top: 20px;
+}
+.profile-img {
+    width: 380px;
+    height: 480px;
+    border-radius: 50%;
+    object-position: top;   /* center / top / bottom */
+    border: 5px solid #0d6efd;
+}
